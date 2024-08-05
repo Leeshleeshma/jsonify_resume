@@ -1,0 +1,127 @@
+{
+    "name": "Leeshma Adari",
+    "contact": {
+        "address": "Bhilai, Chhattisgarh 490023",
+        "phone": "8815859299",
+        "email": "leeshleeshma@gmail.com",
+        "linkedin": "https://linkedin.com/in/leeshma-adari",
+        "github": "https://github.com/Leeshleeshma/"
+    },
+    "experience": [
+        {
+            "title": "Scrum Master and Software Tester Intern",
+            "company": "Zafron Technologies",
+            "date": "July 2023 \u2013 Oct 2023",
+            "responsibilities": [
+                "Assisted the technical and business staff with the design, testing and maintenance of new deployment on a weekly basis.",
+                "Performed automated and manual tests to ensure the software created by developers is up to date and working seamlessly.",
+                "Detected and tracked software bugs and inconsistencies in the application and have an in-depth understanding of Agile principles and methodologies.",
+                "Strong facilitation skills to lead Scrum ceremonies (Daily Standups, Sprint Planning, Sprint Review, Sprint Retrospective)."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Trello-Clone",
+            "technologies": [
+                "NuxtJS",
+                "VueJs",
+                "Typescript",
+                "HTML",
+                "TailwindCSS"
+            ],
+            "date": "Mar 2024",
+            "description": [
+                "Created a Trello-inspired platform facilitating the organization of tasks, complete with functions to generate new cards, seamlessly rearrange them via drag-and-drop, and projected visually indicate the status of each card.",
+                "Incorporated a click option card seamlessly redirects users to a dedicated page displaying its title, status, and description."
+            ],
+            "github_link": "https://github.com/Leeshleeshma/Trello-clone"
+        },
+        {
+            "title": "Java Spring Boot",
+            "technologies": [
+                "Lombok",
+                "Spring web",
+                "H2",
+                "JPA"
+            ],
+            "date": "Feb 2024",
+            "description": [
+                "Implemented React and Spring Boot to build a simple CRUD Application.",
+                "Build a REST API on Courses and Topics using Spring Boot Application and tested on Postman."
+            ]
+        },
+        {
+            "title": "Blog Website",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JS",
+                "Responsive Web Design"
+            ],
+            "date": "July 2022",
+            "description": [
+                "Developed a dynamic multi-page website using Front-end technologies that showcases blogs from different users and provides a feature to upload our blogs.",
+                "Includes an Admin panel which controls the contents of blog and user access."
+            ],
+            "github_link": "https://github.com/Leeshleeshma/Blog"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "DSA self-paced by GeeksforGeeks",
+            "date": "Aug 2023",
+            "provider": "GeeksforGeeks",
+            "link": "course link"
+        },
+        {
+            "title": "The Bits and Bytes of Computer Networking",
+            "date": "Mar 2021",
+            "provider": "Coursera",
+            "link": "course link"
+        }
+    ],
+    "technical_skills": {
+        "languages": [
+            "C++",
+            "Java",
+            "C",
+            "Python",
+            "Javascript"
+        ],
+        "technologies_frameworks": [
+            "Ubuntu",
+            "HTML/CSS",
+            "MYSQL",
+            "Java Spring Boot"
+        ],
+        "skills": [
+            "Data Structures and Algorithms",
+            "Problem-Solving",
+            "Responsive Web Design"
+        ]
+    },
+    "education": [
+        {
+            "institution": "Lovely Professional University",
+            "location": "Jalandhar, Punjab",
+            "degree": "Computer Science and Engineering",
+            "dates": "2021 \u2013 Present",
+            "cgpa": "8.09"
+        },
+        {
+            "institution": "MGM Senior Secondary School",
+            "location": "Bhilai, Chhattisgarh",
+            "degree": "12th with Science",
+            "dates": "2020 \u2013 2021",
+            "percentage": "93%"
+        },
+        {
+            "institution": "MGM Senior Secondary School",
+            "location": "Bhilai, Chhattisgarh",
+            "degree": "10th with Science",
+            "dates": "2018 \u2013 2019",
+            "percentage": "88%"
+        }
+    ]
+}
